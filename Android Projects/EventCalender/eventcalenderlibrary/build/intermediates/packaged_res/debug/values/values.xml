@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CalenderEvent">
+        <attr format="color" name="calender_background"/>
+        <attr format="color" name="selector_color"/>
+        <attr format="color" name="selected_day_text_color"/>
+        <attr format="color" name="current_month_day_color"/>
+        <attr format="color" name="off_month_day_color"/>
+        <attr format="color" name="month_color"/>
+        <attr format="color" name="week_name_color"/>
+        <attr format="reference" name="next_icon"/>
+        <attr format="reference" name="previous_icon"/>
+    </declare-styleable>
+    <string name="app_name">EventCalenderLibrary</string>
+    <string name="fri">Fri</string>
+    <string name="mon">Mon</string>
+    <string name="sat">Sat</string>
+    <string name="sun">Sun</string>
+    <string name="thu">Thu</string>
+    <string name="tue">Tue</string>
+    <string name="wed">Wed</string>
+</resources>
